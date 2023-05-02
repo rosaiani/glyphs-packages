@@ -3375,6 +3375,19 @@
 				};
 				url = "https://github.com/florianpircher/Glyphs-Scripts";
 			},
+			{
+				descriptions = {
+					pt = "Scripts para Glyphs da Plau.";
+					en = "Plau’s glyphs scripts.";
+				};
+				installName = "Plau";
+				titles = {
+					pt = "Scripts da Plau";
+					en = "Plau’s Scripts";
+				};
+				url = "https://github.com/rosaiani/glyphs-scripts";
+			},
+			
 			// *** INSERT NEW SCRIPTS ABOVE THIS LINE
 		);
 		modules = (
